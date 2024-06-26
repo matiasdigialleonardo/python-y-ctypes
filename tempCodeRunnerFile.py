@@ -1,0 +1,1 @@
+call_emergencia_medico
